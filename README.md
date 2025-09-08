@@ -22,7 +22,7 @@ IoT biomedical device (ESP32 + MAX30100) with Python-based data processing
 - [Repository Link]()
 
 ### 🔹 Digital Thermometer (2024)  
-Real-time temperature monitoring with DS18B20 sensor using Embedded C.  
+Real-time temperature monitoring with LM35 sensor using Embedded C.  
 - [Repository Link]()
 
 ### 🔹 Musical Piano (2023)  
