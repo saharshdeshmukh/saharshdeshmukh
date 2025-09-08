@@ -19,15 +19,15 @@
 IoT biomedical device (ESP32 + MAX30100) with Python-based data processing  
 - Accuracy: ±6.33 mg/dL  
 - Real-time data sync with Firebase  
-- [Repository Link]()
+- [Repository Link](https://github.com/saharshdeshmukh/continuous-glucose-monitoring-device)
 
 ### 🔹 Digital Thermometer (2024)  
 Real-time temperature monitoring with LM35 sensor using Embedded C.  
-- [Repository Link]()
+- [Repository Link](https://github.com/saharshdeshmukh/digital-thermometer)
 
 ### 🔹 Musical Piano (2023)  
 Arduino + C++ prototype integrating hardware and software.  
-- [Repository Link]()
+- [Repository Link](https://github.com/saharshdeshmukh/musical-piano)
 
 ---
 
