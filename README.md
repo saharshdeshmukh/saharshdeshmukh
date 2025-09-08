@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Projects  
-### 🔹 Non-Invasive Glucose Monitoring System (2024–25)  
+### 🔹 Continuous Glucose Monitoring Device (2024–25)  
 IoT biomedical device (ESP32 + MAX30100) with Python-based data processing  
 - Accuracy: ±6.33 mg/dL  
 - Real-time data sync with Firebase  
