@@ -2,7 +2,7 @@
 
 🎓 Electronics & Telecommunication Engineering (Sinhgad College of Engineering, Pune, 2025)  
 💻 Passionate about Software Development, IoT, and Embedded Systems  
-🔗 [LinkedIn](www.linkedin.com/in/saharsh-deshmukh-57ab09272) | ✉️ saharshdeshmukhnew@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/saharsh-deshmukh-57ab09272) | ✉️ saharsh.deshmukh.2003@gmail.com  
 
 ---
 
