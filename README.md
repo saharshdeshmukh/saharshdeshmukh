@@ -37,5 +37,5 @@ Executed business-focused SQL queries to analyze monthly sales trends, product p
 • Exposure to ERP workflows during Oracle SCM internship  
 
 
-🔗 LinkedIn: <linkedin.com/in/saharsh-deshmukh-57ab09272>
+
 
