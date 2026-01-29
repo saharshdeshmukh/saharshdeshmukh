@@ -1,4 +1,4 @@
-# Hi, I'm Saharsh 👋  
+# Hi, I'm Saharsh  
 
 📊 Entry-level Data Analyst | SQL • Excel • Power BI  
 🎓 B.E. Electronics & Telecommunication Engineering (2025)  
