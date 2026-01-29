@@ -5,7 +5,7 @@ Hi, I'm Saharsh 👋
 🔎 Passionate about turning raw data into actionable insights    
 ✉️ saharsh.deshmukh.2003@gmail.com     
 🔗 LinkedIn: [View My Profile](https://www.linkedin.com/in/saharsh-deshmukh-57ab09272/)  
-🔗 [GitHub Portfolio:](https://github.com/saharshdeshmukh)    
+🔗 [GitHub Portfolio](https://github.com/saharshdeshmukh)    
 
 
 I am an aspiring Data Analyst with a strong foundation in data analysis, SQL querying, and dashboard development.  
