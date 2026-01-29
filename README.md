@@ -1,8 +1,10 @@
-# Hi, I'm Saharsh  
+Hi, I'm Saharsh 👋  
 
-📊 Entry-level Data Analyst | SQL • Excel • Power BI  
-🎓 B.E. Electronics & Telecommunication Engineering (2025)  
+🎓 B.E. Electronics & Telecommunication (2025)  
+📊 Entry-Level Data Analyst skilled in SQL, Excel, and Power BI  
+🔎 Passionate about turning raw data into actionable insights  
 🔗 LinkedIn: [View My Profile](https://www.linkedin.com/in/saharsh-deshmukh-57ab09272/)
+✉️ saharsh.deshmukh.2003@gmail.com
 
 I am an aspiring Data Analyst with a strong foundation in data analysis, SQL querying, and dashboard development.  
 I enjoy transforming raw data into meaningful insights to support business and operational decision-making.
