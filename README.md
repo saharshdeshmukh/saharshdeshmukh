@@ -23,6 +23,8 @@ I enjoy transforming raw data into meaningful insights to support business and o
 ---
 🔹 Featured Analytics Projects  
 ---
+**• Retail Profitability Analysis (Power BI)**  
+Analyzed retail sales data to identify loss-making categories, discount impact, and regional margin leakage with actionable recommendations.  
 
 **• Sales Performance Dashboard (Excel + Power BI)**  
 Developed an interactive dashboard analyzing sales trends, top-performing products, and regional performance. Enabled quick identification of revenue drivers and business opportunities through data visualization.
@@ -32,6 +34,7 @@ Built operational KPIs such as Resolution Rate and Average Resolution Time using
 
 **• Sales Data Analysis (SQL Project)**  
 Executed business-focused SQL queries to analyze monthly sales trends, product performance, and revenue patterns. Resolved real-world data issues including inconsistent date formats.
+
 
 
 🔹 Academic & Technical Foundation  
